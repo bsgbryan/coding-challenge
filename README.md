@@ -1,5 +1,5 @@
 # coding challenge
-[![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-url]][daviddm-image] [![Coverage Status][coveralls-image]][coveralls-url]
+[![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-url]][daviddm-image]
 
 A simple little module to calculate expenses for a department.
 
